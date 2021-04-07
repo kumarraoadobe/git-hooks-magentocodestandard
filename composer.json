@@ -4,6 +4,7 @@
     "description": "Composer git-hook package with hooks for Magento 2 Projects.",
     "keywords": ["git", "hooks", "checkstyle", "php-cs-fixer", "pre-commit"],
     "license": "MIT",
+    "version":"1.0",
     "authors": [
         {"name": "Kamendra Kumar Rao", "email": "kumarrao@adobe.com"}
     ],
