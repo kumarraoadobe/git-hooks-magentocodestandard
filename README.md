@@ -8,7 +8,7 @@ We use the git `pre-commit` hook to validate all Magento2 code before every comm
 Just add this package as a dependency on your project.
 
 ```sh
-composer require --dev kumarraoadobe/git-hooks-magentocodestandard
+composer require kumarraoadobe/git-hooks-magentocodestandard
 ```
 
 ## pre-commit
