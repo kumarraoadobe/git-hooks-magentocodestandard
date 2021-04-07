@@ -8,6 +8,6 @@
         {"name": "Kamendra Kumar Rao", "email": "kumarrao@adobe.com"}
     ],
     "require": {
-        "kumarraoadobe/magento2-git-hooks-installer": "~1.0"
+        "kumarraoadobe/magento2-git-hooks-installer": "^1.0"
     }
 }
